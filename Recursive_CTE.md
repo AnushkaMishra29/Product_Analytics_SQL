@@ -10,6 +10,11 @@
 
 <img width="941" height="727" alt="image" src="https://github.com/user-attachments/assets/3037aa65-ba28-4ef6-b155-1dbc81e6a536" />
 
+FULL QUERY:
+
+<img width="622" height="677" alt="image" src="https://github.com/user-attachments/assets/7dc423bd-9ae2-4f9f-858d-8f6a4e8e0f8d" />
+
+
 <img width="952" height="372" alt="image" src="https://github.com/user-attachments/assets/17ba7ec3-2dba-4e5f-aad2-16da817db654" />
 
 
